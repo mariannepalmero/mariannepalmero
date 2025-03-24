@@ -2,10 +2,9 @@
 
 I’m @mariannepalmero, a researcher specializing in materials informatics. 
 My work employs density functional theory and machine learning to advance
-our understanding of materials, particularly metals and metal alloys. 
-You'll find repositories that reflect my research interests on my GitHub. 
-These include projects and computational tools developed to help analyze 
-the properties of metal alloys. Each repository is has documentation 
-to help others explore and build upon the work. If you wish to ask me 
-questions, you can reach me at mapalmero@up.edu.ph or 
-marianneapalmero@gmail.com.
+our understanding of materials. You'll find repositories that reflect my
+research interests on my GitHub. These include projects and computational
+tools developed to help analyze the properties of different materials. 
+Each repository has documentation to help others explore and build upon 
+the work. If you wish to ask me questions, you can reach me at 
+mapalmero@up.edu.ph or marianneapalmero@gmail.com.
